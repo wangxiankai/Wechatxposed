@@ -1,6 +1,6 @@
 # WechatXposed
 ##### 极限：手机需要root，如果不进行手机root，可以安装 
-VirtualXposed ：https://github.com/android-hacker/VirtualXposed/releases  （直接下载apk安装即可， 使用方式有详细介绍，该项目的源码不可运行）
+VirtualXposed ：https://github.com/android-hacker/VirtualXposed/releases  （直接下载apk安装即可， 使用方式有详细介绍）
 太极：
 https://htcui.com/22563.html （使用方式里面有详细介绍）
 
