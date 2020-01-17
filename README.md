@@ -14,3 +14,4 @@ https://htcui.com/22563.html （使用方式里面有详细介绍）
 ##### 4.https://blog.csdn.net/xiao_nian/article/details/79391417 （红包监听， 内有详细的源码分析流程， 可以参考内部源码分析流程）
 ##### 5.https://github.com/ElderDrivers/EdXposed （Android高版本xposed不可以用代替框架，xposed失效参考框架）
 ##### 6.https://github.com/wuxiaosu/XposedWechatHelper （可参考工程）
+##### 7.https://github.com/WeihuaGu/receiptnotice （通过通知的消息盒子来监听收款，推荐使用）
